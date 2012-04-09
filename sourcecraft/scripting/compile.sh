@@ -1,4 +1,5 @@
 #!/bin/bash
+# Neftest™
 
 SPCOMP="../../sourcemod-1.4.1/addons/sourcemod/scripting/spcomp.exe"
 FLAGS="-i../../sdkhooks/addons/sourcemod/scripting/include/ -iinclude -iSourceCraft"
